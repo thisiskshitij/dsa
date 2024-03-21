@@ -1,0 +1,7 @@
+Issues
+Array - 
+    implement arrays using class
+    creating objects
+
+
+    
